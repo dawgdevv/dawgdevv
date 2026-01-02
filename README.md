@@ -2,7 +2,7 @@
 
 # Hey, I'm Nishant <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=500&lines=Developer+%7C+Builder+%7C+Creator;Blockchain+%2B+Full-Stack;Backend+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=500&lines=Developer+%7C+Builder+%7C+Creator;First Principal+%2B+Full-Stack;Backend+Developer" alt="Typing SVG" />
 
 ### ⚡ Tech Stack
 
