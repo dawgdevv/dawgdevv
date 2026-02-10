@@ -14,10 +14,17 @@ I’m an **avid hackathon participant** and enjoy working on challenging problem
 ### 🌱 Open Source & Learning
 I like contributing to **open source**, reading other people’s code, and experimenting with new tools and frameworks. I believe strong fundamentals matter more than tools, and I’m constantly learning to improve as an engineer.
 
-### 🚀 Goals
-I aspire to become a **great developer** who builds and leads **meaningful projects** that create real impact.
+![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/gt_Nyi4AkVCETXB3BS1?view=active&theme=wicked)
 
-### 🔗 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/nraj24/
-- Twitter/X: https://x.com/sfunish
-- Portfolio: https://dawgdevv.me/
+<!-- Optional parameters:
+  - view: range | first | active (default: range)
+  - theme: light | dark | skyline | hacker | edgerunner | wicked | cherry-blossom | deep-waters | forest | neon-purple | grayscale | retro (default: light) 
+  - width: 400-1200 (default: 800)
+-->
+
+![GitHub Stats](https://www.githubtimeline.com/api/embed/stats/gt_Nyi4AkVCETXB3BS1?theme=wicked)
+
+<!-- Optional parameters:
+  - theme: light | dark | skyline | hacker | edgerunner | wicked | cherry-blossom | deep-waters | forest | neon-purple | grayscale | retro (default: light)
+  - width: 400-1200 (default: 800)
+-->
