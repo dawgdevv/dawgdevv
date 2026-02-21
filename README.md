@@ -2,7 +2,7 @@
 
 I’m a **backend developer** who enjoys building projects, debugging systems, and exploring new technologies and frameworks.
 
-I approach backend development from **first principles**, focusing on understanding every nuance of how systems work—how requests flow, how data is handled, and how performance and reliability are affected by design choices. I like solving complex issues by breaking them down logically and fixing them at the root.
+I approach backend development from **first principles**, focusing on understanding every nuance of how systems work how requests flow, how data is handled, and how performance and reliability are affected by design choices. I like solving complex issues by breaking them down logically and fixing them at the root.
 
 I’m an **avid hackathon participant** and enjoy working on challenging problems under real constraints. Hackathons have helped me think fast, build pragmatically, and collaborate effectively while shipping working solutions.
 
