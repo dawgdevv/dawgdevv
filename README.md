@@ -25,7 +25,7 @@ That split means I can deliver in days what usually takes weeks — and I can sh
 
 | Layer | Tools |
 |---|---|
-| **Backend** | Python · Go · Node.js · REST & GraphQL APIs · distributed systems |
+| **Backend** | Python · Go · Node.js · REST & GraphQL APIs · distributed systems · Supabase |
 | **Database** | PostgreSQL · Redis · vector DBs · MongoDB |
 | **Frontend** | React · Next.js · TypeScript |
 | **AI / LLM** | RAG pipelines · agent architectures · LLM cost optimization · embedding pipelines |
