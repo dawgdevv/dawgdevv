@@ -1,30 +1,32 @@
-# Hi 👋, I’m Nishant Raj
+# Hey, I'm Nishant Raj
 
-I’m a **backend developer** who enjoys building projects, debugging systems, and exploring new technologies and frameworks.
+Full-stack engineer based in India. I build systems end-to-end  backend architecture, APIs, databases, frontend, AI pipelines and I use AI to ship significantly faster than a typical hire without cutting corners on quality.
 
-I approach backend development from **first principles**, focusing on understanding every nuance of how systems work how requests flow, how data is handled, and how performance and reliability are affected by design choices. I like solving complex issues by breaking them down logically and fixing them at the root.
+---
 
-I’m an **avid hackathon participant** and enjoy working on challenging problems under real constraints. Hackathons have helped me think fast, build pragmatically, and collaborate effectively while shipping working solutions.
+## What I actually do
 
-### 🛠 Tech Stack
-- **Languages**: Go, JavaScript, TypeScript  
-- **Backend**: APIs, system design, performance optimization  
-- **OS**: Linux (currently using **Pop!_OS**)  
+I architect and build the system. AI handles boilerplate, tests, and docs. I own the design decisions, edge cases, and everything that matters in production.
 
-### 🌱 Open Source & Learning
-I like contributing to **open source**, reading other people’s code, and experimenting with new tools and frameworks. I believe strong fundamentals matter more than tools, and I’m constantly learning to improve as an engineer.
+That split means I can deliver in days what usually takes weeks — and I can show you exactly why every technical decision was made.
 
-![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/gt_Nyi4AkVCETXB3BS1?view=active&theme=wicked)
+**Backend** — Python · Go · Node.js · REST & GraphQL APIs · distributed systems · PostgreSQL · Redis  
+**Frontend** — React · Next.js · TypeScript · clean, functional UIs that don't get in the way  
+**AI / LLM** — RAG pipelines · agent architectures · LLM cost optimization · embedding pipelines  
+**Infrastructure** — Docker · GitHub Actions · Railway · Supabase · cost-aware deployment
 
-<!-- Optional parameters:
-  - view: range | first | active (default: range)
-  - theme: light | dark | skyline | hacker | edgerunner | wicked | cherry-blossom | deep-waters | forest | neon-purple | grayscale | retro (default: light) 
-  - width: 400-1200 (default: 800)
--->
+---
 
-![GitHub Stats](https://www.githubtimeline.com/api/embed/stats/gt_Nyi4AkVCETXB3BS1?theme=wicked)
+## How I work differently
 
-<!-- Optional parameters:
-  - theme: light | dark | skyline | hacker | edgerunner | wicked | cherry-blossom | deep-waters | forest | neon-purple | grayscale | retro (default: light)
-  - width: 400-1200 (default: 800)
--->
+Most engineers either move fast and break things, or move slow and build something solid. AI lets me do both.
+
+- I write Architecture Decision Records before writing code
+- Every project ships with a C4 diagram, load test results, and cost analysis
+- I frame deliverables in business outcomes, not lines of code
+- I don't disappear after handoff — I document so the next person isn't lost
+
+[LinkedIn](linkedin.com/in/nraj24/) :
+[Email](nraj02415@gmail.com)
+
+> *Based in India · Available for remote work globally · EU timezone overlap (9 AM–12 PM CET)*
