@@ -11,12 +11,13 @@ I build systems end-to-end backend architecture, APIs, databases, frontend, AI p
 
 ## What I actually do
 
-I architect and build the system. AI handles boilerplate, tests, and docs. I own the design decisions, edge cases, and everything that matters in production.
+I focus on understanding the problem well and designing systems that work reliably in real-world conditions.
 
-That split means I can deliver in days what usually takes weeks and I can show you exactly why every technical decision was made.
+I take responsibility for the parts that matter most in production how things are structured, how they handle edge cases, and how they hold up over time.
 
-language agnostic i connect and understand problem better for the execution.
+I use AI to help with repetitive tasks like boilerplate, testing, and documentation so I can spend more time thinking through the system and its behavior.
 
+I’m not tied to a specific language or stack I try to choose what fits the problem best and execute it carefully.
 ---
 
 ## Stack
