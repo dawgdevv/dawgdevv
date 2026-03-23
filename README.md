@@ -13,10 +13,7 @@ I build systems end-to-end backend architecture, APIs, databases, frontend, AI p
 
 I architect and build the system. AI handles boilerplate, tests, and docs. I own the design decisions, edge cases, and everything that matters in production.
 
-That split means I can deliver in days what usually takes weeks — and I can show you exactly why every technical decision was made.
-
-
-### You get:  architecture thinking  +  AI-accelerated execution  +  production-ready code
+That split means I can deliver in days what usually takes weeks and I can show you exactly why every technical decision was made.
 
 
 ---
