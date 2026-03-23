@@ -20,16 +20,4 @@ I use AI to help with repetitive tasks like boilerplate, testing, and documentat
 I’m not tied to a specific language or stack I try to choose what fits the problem best and execute it carefully.
 ---
 
-## Stack
-
-| Layer | Tools |
-|---|---|
-| **Backend** | Python · Go · Node.js · REST & GraphQL APIs · distributed systems · Supabase |
-| **Database** | PostgreSQL · Redis · vector DBs · MongoDB |
-| **Frontend** | React · Next.js · TypeScript |
-| **AI / LLM** | RAG pipelines · agent architectures · LLM cost optimization · embedding pipelines |
-| **Infra** | Docker · GitHub Actions · Railway · Supabase · cost-aware deployment |
-
----
-
 > 📍 Based in India · Available for remote work globally · EU timezone overlap (9 AM–12 PM CET)
