@@ -1,7 +1,7 @@
 # Hey, I'm Nishant Raj 👋
 
 **Full-stack engineer based in India.**
-I build systems end-to-end — backend architecture, APIs, databases, frontend, AI pipelines — and I use AI to ship significantly faster than a typical hire without cutting corners on quality.
+I build systems end-to-end backend architecture, APIs, databases, frontend, AI pipelines and I use AI to ship significantly faster than a typical hire without cutting corners on quality.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nraj24/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white)](https://dawgdevv.me/)
