@@ -1,8 +1,3 @@
-# Hey, I'm Nishant Raj 👋
-
-**Software Engineer based in India.**
-
-Backend Engineer · Building agentic apps · UI/design sense · FastAPI/Node/Python/TypeScript · Metrics-driven · Open Source
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nraj24/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white)](https://dawgdevv.tech/)
